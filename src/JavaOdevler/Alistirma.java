@@ -17,12 +17,6 @@ public class Alistirma {
 		}
 		System.out.println("Girdiginiz kelimenin tersten yazilisi : " + ters);
 	}
-	
-	
-	
-	
-	
-	String Str=1;
 	    
 
 }
