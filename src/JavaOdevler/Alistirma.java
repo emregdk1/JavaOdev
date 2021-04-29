@@ -16,7 +16,6 @@ public class Alistirma {
 			ters+=str.charAt(str.length()-i-1);
 		}
 		System.out.println("Girdiginiz kelimenin tersten yazilisi : " + ters);
-		System.out.println("Girdiginiz kelimenin tersten yazilisi : " + ters);
 	}
 	    
 
